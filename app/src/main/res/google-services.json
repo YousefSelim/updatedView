@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168671053067",
+    "firebase_url": "https://sehtk-f187a.firebaseio.com",
+    "project_id": "sehtk-f187a",
+    "storage_bucket": "sehtk-f187a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168671053067:android:a69b84c1d1102d35",
+        "android_client_info": {
+          "package_name": "com.boorsaty.sehtk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168671053067-mc0t90gnlol3i6g139iv7oq6umtasns8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTW5V69O0D7M8SI9ahJ85I7y4CUuQ3dw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168671053067-mc0t90gnlol3i6g139iv7oq6umtasns8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
